@@ -9,7 +9,10 @@ One Paragraph of project description goes here
 - [Medium Title](#medium-title) 
 - [Small Title](#small-title) 
 
-[Installing](#Installing)
+
+## About the Todo application
+
+The Todo application is a simple online Todo list manager. New Todos' may be added, marked as complete and deleted. Completed Todos' are clearly marked with a tick and crossed out text. A down arrow at the top left of the page allows select all. And view options at the bootom of the screen allow for different views based on the status of the Todo being All, Active or Completed. The Todos' are saved locally to the browser, and will be shown when the page is reloaded. You may also double-click a Todo to modify it. The page is clean and simple, and there is no advertising to slow it down, so response is immediate.
 
 ## Getting Started
 
@@ -25,19 +28,13 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Clone or download the project into you web server's www folder. On certain servers it may be required to place the files in an html folder within the www folder.
 
 ```
 Give the example
 ```
 
-And repeat
 
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
