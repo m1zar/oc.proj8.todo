@@ -86,14 +86,9 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Performance Comparison
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+The following is a comparison between this Todo site and a competitor, Todo List Me (http://todolistme.net). This site offers many more features but the core applications are similar allowing the comparison of the performance of key functionalities between the two.
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+
 
