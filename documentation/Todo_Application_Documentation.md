@@ -1,8 +1,9 @@
 # TODO Application Documentation
-# Project Title
-[click on this link](#my-multi-word-header)
+
+[click on this link](#Installing)
 
 ### My Multi Word Header
+
 One Paragraph of project description goes here
 
 ## Getting Started
