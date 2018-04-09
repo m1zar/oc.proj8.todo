@@ -5,7 +5,7 @@ One Paragraph of project description goes here
 ## Index
 
 - [Getting Started](#getting-started)
-- [Big Title](#big-title)
+- [Running the tests](#running-the-tests)
 - [Medium Title](#medium-title) 
 - [Small Title](#small-title) 
 
