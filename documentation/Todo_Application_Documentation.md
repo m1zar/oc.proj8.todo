@@ -42,9 +42,10 @@ End with an example of getting some data out of the system or using it for a lit
 
 The site includes the Jasmine test suite and the following test for the major functions of the site.
 
-###controller
+'''
+controller
   should show entries on start-up
-###routing
+routing
   should show all entries without a route
   should show all entries without "all" route
   should show active entries
@@ -55,24 +56,24 @@ The site includes the Jasmine test suite and the following test for the major fu
   should set the "clear completed" button
   should highlight "All" filter by default
   should highlight "Active" filter when switching to active view
-###toggle all
+toggle all
   should toggle all todos to completed
   should update the view
-###new todo
+new todo
   should add a new todo to the model
   should add a new todo to the view
   should clear the input field when a new todo is added
-###element removal
+element removal
   should remove an entry from the model
   should remove an entry from the view
   should update the element count
-###remove completed
+remove completed
   should remove a completed entry from the model
   should remove a completed entry from the view
-###element complete toggle
+element complete toggle
   should update the model
   should update the view
-###edit item
+edit item
   should switch to edit mode
   should leave edit mode on done
   should persist the changes on done
@@ -80,6 +81,8 @@ The site includes the Jasmine test suite and the following test for the major fu
   should remove the element from the view when persisting an empty title
   should leave edit mode on cancel
   should not persist the changes on cancel
+
+'''
 
 ### Break down into end to end tests
 
