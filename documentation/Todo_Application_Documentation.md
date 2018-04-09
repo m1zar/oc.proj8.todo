@@ -1,10 +1,10 @@
 # TODO Application Documentation
 
-[click on this link](#Installing)
-
-### My Multi Word Header
-
 One Paragraph of project description goes here
+
+## Index
+
+[Installing](#Installing)
 
 ## Getting Started
 
