@@ -1,31 +1,13 @@
-markdownLinkTest
-================
-
-# Contents
-
-- [Title](#title)
-- [Big Title](#big-title)
-- [Medium Title](#medium-title) 
-- [Small Title](#small-title) 
-
-# Title
-
-## Big Title
-This tests links in Github markdown.
-
-### Medium Title
-Donec hendrerit nisl sed ipsum hendrerit, eget molestie ante porttitor. Ut sed congue magna, eget tristique felis. Vestibulum ut congue 
-
-#### Small Title
-
-Donec in elementum ante, eu aliquet orci. Maecenas non venenatis ante. Etiam vel sollicitudin diam, a sodales sem. Aenean interdum quam 
-
-
 # TODO Application Documentation
 
 One Paragraph of project description goes here
 
 ## Index
+
+- [Getting Started](#getting-started)
+- [Big Title](#big-title)
+- [Medium Title](#medium-title) 
+- [Small Title](#small-title) 
 
 [Installing](#Installing)
 
